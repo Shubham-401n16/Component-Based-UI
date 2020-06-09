@@ -28,4 +28,4 @@
 npm test
 
 #### UML
-![UML Diagram](whiteboard.jpg)
+![UML Diagram](UML.png)
