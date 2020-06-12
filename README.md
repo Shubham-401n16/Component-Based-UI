@@ -1,6 +1,6 @@
-# Lab18-Message Queues
+# Lab21-Component Based UI
 
-## Message Queues
+## Component Based UI
 
 ### Author: Shubham Majumdar
 
